@@ -1,7 +1,7 @@
 # A-simple-python-student-query-tool
 Simulate SQL functionality on pandas dataframe
 
-### I have defined 5 query functions:
+### 5 query functions:
     1. Showall(): To show all records in the database
         If executed, it will print the whole dataframe in the output.
 
