@@ -6,7 +6,7 @@ Simulate SQL functionality on pandas dataframe
         If executed, it will print the whole dataframe in the output.
 
 2. LastName(lastname): To search for a student with his/her last name  
-When executed, the terminal will prompt the user for a last name input. 
+When executed, the terminal will prompt the user for a last name input.   
 Step 1) The program will first check/validate the input from the user. The user can type any type of characters but the program will not accept non-alphabet characters. The function will return a message if the input contains non-alphabet characters.  
 Step 2) Once the program validates that the input is correct in format, it will proceed to search the database for the record.
 
